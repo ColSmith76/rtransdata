@@ -7,4 +7,5 @@
 #' 
 #' @name rtransdata
 #' @docType package
+#' @import rgdal
 NULL
