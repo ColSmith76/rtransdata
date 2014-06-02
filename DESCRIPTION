@@ -1,6 +1,8 @@
 Package: rtransdata
-Title: 
-Description: 
+Title: Download and analyze transportation data.
+Description: A set of functions to work with various public transportation data
+    sources in R, including producing tabulations, charts, and maps to show and
+    analyze data.
 Version: 0.1
 Authors@R: "Colin Smith <colin76@gmail.com> [aut,cre]"
 Depends:
